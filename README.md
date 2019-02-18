@@ -1,2 +1,2 @@
 # sthupam.sripaduka.org
-Public wesite for sthupam.sripaduka.org
+Public website for sthupam.sripaduka.org
